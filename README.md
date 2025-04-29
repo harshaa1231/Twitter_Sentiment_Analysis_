@@ -1,5 +1,5 @@
 # Project Overview
-This project focuses on enhancing the trustworthiness of AI model outputs in real-world applications. Using a Twitter sentiment analysis model (cardiffnlp/twitter-roberta-base-sentiment), the project explores how lightweight modifications — specifically, applying a confidence threshold — can significantly improve the reliability of AI systems without retraining or fine-tuning.
+This project focuses on enhancing the trustworthiness of AI model outputs in real-world applications. Using a Twitter sentiment analysis model ([cardiffnlp/twitter-roberta-base-sentiment](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)), the project explores how lightweight modifications — specifically, applying a confidence threshold — can significantly improve the reliability of AI systems without retraining or fine-tuning.
 
 Rather than forcing the model to predict every input, the system selectively abstains from making predictions when confidence is low, thereby improving user trust in the outputs.
 
