@@ -3,6 +3,8 @@ This project focuses on enhancing the trustworthiness of AI model outputs in rea
 
 Rather than forcing the model to predict every input, the system selectively abstains from making predictions when confidence is low, thereby improving user trust in the outputs.
 
+To learn and understand more about this case study [click on this link](https://medium.com/@hv6700030/building-trustworthy-ai-systems-a-case-study-on-twitter-sentiment-classification-680a08849f0d).
+
 # Key Goals
 Analyze trust issues in AI predictions, particularly low-confidence outputs.
 
