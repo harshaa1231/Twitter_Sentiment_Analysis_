@@ -15,7 +15,7 @@ Low-confidence AI predictions can mislead users, damage trust, and create poor u
 
 # Technical Approach
 Dataset: [TweetEval Sentiment Analysis subset (Hugging Face Datasets)](https://huggingface.co/datasets/cardiffnlp/tweet_eval)
-Model: cardiffnlp/twitter-roberta-base-sentiment
+
 Metrics:
 Accuracy: Correct predictions after applying threshold
 Coverage: Percentage of inputs the system confidently acts upon
