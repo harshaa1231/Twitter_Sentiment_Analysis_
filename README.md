@@ -14,7 +14,7 @@ Simulate real-world interaction through manual and random tweet testing.
 Low-confidence AI predictions can mislead users, damage trust, and create poor user experiences. In fraud detection and user-facing product environments, trustworthy outputs are critical — it is better to refrain from predicting than to provide misleading or incorrect information. This project demonstrates how applying a confidence-based filtering mechanism can strengthen the system’s trustworthiness in practice.
 
 # Technical Approach
-Dataset: TweetEval Sentiment Analysis subset (Hugging Face Datasets)
+Dataset: [TweetEval Sentiment Analysis subset (Hugging Face Datasets)](https://huggingface.co/datasets/cardiffnlp/tweet_eval)
 Model: cardiffnlp/twitter-roberta-base-sentiment
 Metrics:
 Accuracy: Correct predictions after applying threshold
